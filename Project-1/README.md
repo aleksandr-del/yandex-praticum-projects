@@ -1,4 +1,4 @@
-# Описание (проекта)[https://github.com/aleksandr-del/yandex-praticum-projects/blob/main/Project-1/yandex_practicum_calculus_project.ipynb]
+# Описание [проекта](https://github.com/aleksandr-del/yandex-praticum-projects/blob/main/Project-1/yandex_practicum_calculus_project.ipynb)
 
 Сервис по продаже автомобилей с пробегом разрабатывает приложение, чтобы привлечь новых клиентов. В нём можно будет узнать рыночную стоимость своего автомобиля. Целью настоящего проекта являетс модель, которая умеет определять стоимость автомобиля. Заказчику важны качество предсказания, время обучения модели и время предсказания модели.
 
